@@ -1,6 +1,4 @@
 [core]
-    remote = test_dataset
+    remote = cheese_dataset
 ['remote "cheese_dataset"']
-    url = gs://cheese-app-data-versioning-hw2-sc/dvc_store
-['remote "test_dataset"']
     url = gs://cheese-app-data-versioning-hw2-sc/dvc_store
